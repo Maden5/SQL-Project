@@ -23,16 +23,20 @@ Describe your QA process and include the SQL queries used to execute it.
 
 Cheking for Missing Data: Using the COUNT(*) and the WHERE function, we can get a count of NULL values in that specific column
 
-SELECT COUNT(*)
-FROM products
-WHERE orderedquantity IS NULL
+>```sql
+>SELECT COUNT(*)
+>FROM products
+>WHERE orderedquantity IS NULL
+>```
 
 Checking for Dublicate Entries: Using the GROUP BY and HAVING aggregations, we can find if the primary key has dublicate entries.
 
+```sql
 SELECT productsku, COUNT(*)
 FROM products
 GROUP BY productsku
 HAVING COUNT(*) > 1;
+```
 
 Check for Data Tyoes: Just by looking at the headers, you can see below them what type of data it is (ex. VARCHAR, INT, or NUMERICAL).
 
