@@ -1,6 +1,6 @@
 What issues will you address by cleaning the data?
 
-1. Date Column: The dates came back as 'YYYY-MM-DD' in the SQL column, which saved me time on changing the format, but the rows are not according to the date. The dates are all over the place, you have January next to July.
+1. Date Column: The dates came back as 'YYYY-MM-DD' in the SQL column, which saved me time on changing the format, but the rows are not according to the date.
 
 2. Empty Columns: While observin the columns, some came back blank. These columns don't add value and can be removed for clarity and to optomized storage. I noticed 4 empty columns in the all_sesions file and also 1 empty column in the analytics file.
 
