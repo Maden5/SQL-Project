@@ -4,11 +4,35 @@ Answer the following questions and provide the SQL queries used to find the answ
 **Question 1: Which cities and countries have the highest level of transaction revenues on the site?**
 
 
-SQL Queries:
+SQL Queries: 
+
+Top Cities:
+
+```SQL
+SELECT DISTINCT city, SUM(totaltransactionrevenue)
+FROM all_sessions2
+WHERE city <> 'not available in demo dataset'
+    AND totaltransactionrevenue IS NOT NULL
+GROUP BY city
+ORDER BY SUM(totaltransactionrevenue) DESC
+LIMIT 5;
+```
+
+
+```SQL
+SELECT DISTINCT country, SUM(totaltransactionrevenue)
+FROM all_sessions2
+WHERE country <> 'not available in demo dataset'
+    AND totaltransactionrevenue IS NOT NULL
+GROUP BY country
+ORDER BY SUM(totaltransactionrevenue) DESC
+LIMIT 5;
+```
 
 
 
-Answer:
+Answer: 
+The top cities with the highest transaction revenue are San Francisco, Sunnyvale, Atlanta, Palo Alto, and Tel Aviv-Yafo. The countries with the highest transaction revenue are United States, Israel, Australia, Canada, and Switzerland.
 
 
 
