@@ -146,19 +146,19 @@ Answer: Yes, while United States is focussed on reusable shopping bags, Isreal a
 
 Cities: 
 
-Atlanta: Reusable Shopping Bag =   742
-Sunnyvale: SPF-15 Slim & Slender Lip Balm  =  649
-Tel Aviv-Yafo: Nest® Protect Smoke + CO Black Wired Alarm-USA =   602
-Los Angeles: Nest® Cam Outdoor Security Camera - USA  =  363
-Sydney: Nest® Cam Indoor Security Camera - USA  =  358
+Atlanta: Reusable Shopping Bag 
+Sunnyvale: SPF-15 Slim & Slender Lip Balm 
+Tel Aviv-Yafo: Nest® Protect Smoke + CO Black Wired Alarm-USA 
+Los Angeles: Nest® Cam Outdoor Security Camera - USA 
+Sydney: Nest® Cam Indoor Security Camera - USA 
 
 Countries: The top selling products for each country is:
 
-United State: Reusable Shopping Bag  =  1015
-Israel: Nest® Protect Smoke + CO Black Wired Alarm-USA  =  602
-Australia: Nest® Cam Indoor Security Camera - USA  =  358
-Canada: Google Men's 3/4 Sleeve Raglan Henley Grey  =  82
-Switzerland: YouTube Men's 3/4 Sleeve Henley  = 16
+United State: Reusable Shopping Bag 
+Israel: Nest® Protect Smoke + CO Black Wired Alarm-USA 
+Australia: Nest® Cam Indoor Security Camera - USA 
+Canada: Google Men's 3/4 Sleeve Raglan Henley Grey 
+Switzerland: YouTube Men's 3/4 Sleeve Henley
 
 
 
@@ -192,26 +192,8 @@ ORDER BY SUM(a.revenue) DESC;
 
 
 Answer:
-Cities:
-
-Mountain View  =  10549.4899960000000000
-San Bruno  =  4230.9900000000000000
-New York  =  3485.7899920000000000
-Sunnyvale  =  3039.2599920000000000
-Chicago  =  1383.6300000000000000
-Charlotte  =  1161.3899930000000000
-Kirkland  =  1103.5200000000000000
-San Francisco  =  987.4499980000000000
-Los Angeles  =  942.9999990000000000
-Jersey City  =  933.8500000000000000
-
-Countries:
-
-United States  =  115229.2799000000000000
-Canada  =  487.6700000000000000
-Germany  =  69.9800000000000000
-Japan  =  30.8800000000000000
-Switzerland  =  16.9900000000000000
+While North America was placed as the top purchases on the site, a well thought out marketing strategy should be placed for other emerging countries within the site, such as Canada who came 2nd in revenue but was no where near the US.
+Mountain View had the most amount of sales for cities, while major cities followed by. We should focus on why Mountain View was way ahead of all the other cities and see if we can replicate the revenue with major cities.
 
 
 
