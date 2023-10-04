@@ -146,19 +146,19 @@ Answer: Yes, while United States is focussed on reusable shopping bags, Isreal a
 
 Cities: 
 
-Atlanta: Reusable Shopping Bag 
-Sunnyvale: SPF-15 Slim & Slender Lip Balm 
-Tel Aviv-Yafo: Nest® Protect Smoke + CO Black Wired Alarm-USA 
-Los Angeles: Nest® Cam Outdoor Security Camera - USA 
-Sydney: Nest® Cam Indoor Security Camera - USA 
+Atlanta (Reusable Shopping Bag), 
+Sunnyvale (SPF-15 Slim & Slender Lip Balm), 
+Tel Aviv-Yafo (Nest® Protect Smoke + CO Black Wired Alarm-USA), 
+Los Angeles (Nest® Cam Outdoor Security Camera - USA), 
+Sydney (Nest® Cam Indoor Security Camera - USA). 
 
 Countries: The top selling products for each country is:
 
-United State: Reusable Shopping Bag 
-Israel: Nest® Protect Smoke + CO Black Wired Alarm-USA 
-Australia: Nest® Cam Indoor Security Camera - USA 
-Canada: Google Men's 3/4 Sleeve Raglan Henley Grey 
-Switzerland: YouTube Men's 3/4 Sleeve Henley
+United State (Reusable Shopping Bag), 
+Israel (Nest® Protect Smoke + CO Black Wired Alarm-USA), 
+Australia (Nest® Cam Indoor Security Camera - USA), 
+Canada (Google Men's 3/4 Sleeve Raglan Henley Grey), 
+Switzerland (YouTube Men's 3/4 Sleeve Henley).
 
 
 

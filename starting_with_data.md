@@ -10,19 +10,7 @@ ORDER BY sk.total_ordered DESC;
 ```
 
 Answer: 
-productsku        v2productname                                  total_ordered
-GGOEGOAQ012899    "Ballpoint LED Light Pen"                      456
-GGOEGDHC074099    "Google 17oz Stainless Steel Sport Bottle"     334
-GGOEGOCB017499    "Leatherette Journal"                          319
-GGOEGOCC077999    "Google Spiral Journal with Pen"               290
-GGOEGFYQ016599    "Foam Can and Bottle Cooler"                   253
-GGOEGFYQ016599    "Koozie Can Kooler"                            253
-GGOEGHPJ080310    "Google Blackout Cap"                          189
-GGOEADHH073999    "Android 17oz Stainless Steel Sport Bottle"    167
-GGOEGAAX0037      "Google Sunglasses"                            146
-GGOENEBQ078999    "Nest® Cam Outdoor Security Camera - USA"      112
-
-
+The top selling products are the Ballpoint, Google stainless bottle, Leatherette Journal, Google Spiral Journal, and Foam Can.
 While viewing the whole column, I noticed two things. The top selling product which is the Google Pen, and also the top selling brands, Google and NEST.
 
 
